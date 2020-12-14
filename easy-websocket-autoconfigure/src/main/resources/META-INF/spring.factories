@@ -1,0 +1,2 @@
+# Point to AutoConfigure Class
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=org.star.easyws.autoconfig.EasyWebSocketAutoConfigure
